@@ -217,3 +217,5 @@ D2 Coding폰트가 한글도 지원하며 예쁘길래 다운받음. 위에서 �
 2. 다운로드 파일 압축해제 후 서체 설치
 3. iTerm2를 켠 상태에서 왼쪽 위 상단바에서 iTerm2 > Preferences > Profiles > Text > change font > 폰트선택
 
+### vscode extensions
+[!extensions](https://media.discordapp.net/attachments/801509755981004842/885087724598603786/Screen_Shot_2021-09-08_at_5.59.27_PM.png?width=1638&height=1230)
