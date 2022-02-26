@@ -68,7 +68,7 @@ alias mnt="gcc -Wall -Wextra -Werror"
 ```
 
 ### 설정에 앞서
-.vimrc 나 .zsh같은 경우 vim에서 수정시 파일에 추가입력을 하고 노멀모드에서 :source % 또는 :so % 명령어로 재로드해야함. vim모드 나가서 터미널 환경에서 source .vimr를 해줘도됨   
+.vimrc 나 .zsh같은 경우 vim에서 수정시 파일에 추가입력을 하고 노멀모드에서 :source % 또는 :so % 명령어로 재로드해야함. vim모드 나가서 터미널 환경에서 source ~/.vimrc(zshrc)를 해줘도됨   
 .vimrc에 플러그인을 추가할 경우 노멀모드에서 :PluginInstall을 해줘서 설치해주는것도 잊으면 안된다!
 
 ### 42 header
