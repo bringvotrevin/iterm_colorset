@@ -220,6 +220,7 @@ D2 Coding폰트가 한글도 지원하며 예쁘길래 다운받음. 위에서 �
 ### vscode extensions
 ![extensions](https://media.discordapp.net/attachments/801509755981004842/885087724598603786/Screen_Shot_2021-09-08_at_5.59.27_PM.png?width=1638&height=1230)
 
+## JS
 
 ### Eslint, Prettier 설치
 우테코 제한사항에 맞추기 위해 eslint와 prettier를 설치해서 규칙에 안맞는 코드 에러띄우려고 설치함
