@@ -251,7 +251,7 @@ D2 Coding폰트가 한글도 지원하며 예쁘길래 다운받음. 위에서 �
 ```
 
 
-### a11y-hidden
+### css
 ```
 "a11y-hidden": {
     "prefix": "a11y",
@@ -271,3 +271,46 @@ D2 Coding폰트가 한글도 지원하며 예쁘길래 다운받음. 위에서 �
   }
 ```
 
+### html
+```
+"html": {
+    "prefix": "!!",
+    "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"ko-KR\">",
+      "  <head>",
+      "    <meta charset=\"UTF-8\">",
+      "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+      "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "    <title>$1</title>",
+      "  </head>",
+      "  <body>",
+      "    $0",
+      "  </body>",
+      "</html>"
+    ],
+    "description": "html"
+  },
+  "meta-tag": {
+    "prefix": "metatag",
+    "body": [
+      "<meta name=\"description\" content=\"\">",
+      "<meta property=\"og:title\" content=\"페이지 제목\" />",
+      "<meta property=\"og:type\" content=\"컨텐츠 타입\" />",
+      "<meta property=\"og:url\" content=\"페이지 주소\" />",
+      "<meta property=\"og:image\" content=\"페이지 썸네일 이미지 주소\" />",
+      "<meta property=\"og:description\" content=\"페이지 설명\" />",
+
+      "<meta name=\"twitter:card\" content=\"카드의 타입\">",
+      "<meta name=\"twitter:title\" content=\"카드의 제목\">",
+      "<meta name=\"twitter:description\" content=\"카드 설명\">",
+      "<meta name=\"twitter:image\" content=\"카드 썸네일 이미지 주소\">"
+    ],
+    "description": "metatag"
+  },
+  "img-test": {
+    "prefix": "imgtest",
+    "body": ["<img src=\"http://placehold.it/100x100\" alt=\"\">", ""],
+    "description": "img-test"
+  }
+```
