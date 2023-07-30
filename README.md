@@ -251,3 +251,23 @@ D2 Coding폰트가 한글도 지원하며 예쁘길래 다운받음. 위에서 �
 ```
 
 
+### a11y-hidden
+```
+"a11y-hidden": {
+    "prefix": "a11y",
+    "body": [
+      ".a11y-hidden {",
+      "  clip: rect(1px, 1px, 1px, 1px);",
+      "  clip-path: inset(50%);",
+      "  width: 1px;",
+      "  height: 1px;",
+      "  margin: -1px;",
+      "  overflow: hidden;",
+      "  padding: 0;",
+      "  position: absolute;",
+      "}"
+    ],
+    "description": "a11y-hidden"
+  }
+```
+
